@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chin-Wei.
+- 👋 Hi, I’m Chin-Wei Wu, a current software engineer at MediaTek Inc., Hsinchu City, Taiwan.
 - 👀 I’m interested in Circuit Simulation, SoC Power and Thermal Modeling, Optimization, Machine/ Deep Learning.
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on DNN-based Hotspot Prediction for Mobile Devices.
