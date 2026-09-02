@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chin-Wei Wu, a current software engineer at MediaTek Inc., Hsinchu City, Taiwan.
+- 👋 Hi, I’m Chin-Wei Wu, a current independent researcher and a research intern at Purdue University.
 - 👀 I’m interested in Computer Architecture, Energy-efficient Computing, Circuit Simulation, Optimization, Machine/ Deep Learning, LLM.
 - 📫 How to reach me: chinwei.wu1999@gmail.com
 
